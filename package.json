@@ -1,6 +1,6 @@
 {
   "name": "docsmint",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Open-source knowledge base for people and AI agents. Rich-text editing, hybrid search, GraphRAG, and MCP. Self-host with Docker or use DocsMint Cloud.",
   "main": "src/index.ts",
   "scripts": {
